@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+*.zip
+prism_*.csv
+prism_*.md
+.env
